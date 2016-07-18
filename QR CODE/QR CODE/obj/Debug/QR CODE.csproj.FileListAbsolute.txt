@@ -1,0 +1,50 @@
+c:\users\ahmed\documents\visual studio 2012\Projects\QR CODE\QR CODE\bin\Debug\QR CODE.exe.config
+c:\users\ahmed\documents\visual studio 2012\Projects\QR CODE\QR CODE\bin\Debug\QR CODE.exe
+c:\users\ahmed\documents\visual studio 2012\Projects\QR CODE\QR CODE\bin\Debug\QR CODE.pdb
+c:\users\ahmed\documents\visual studio 2012\Projects\QR CODE\QR CODE\bin\Debug\MessagingToolkit.QRCode.dll
+c:\users\ahmed\documents\visual studio 2012\Projects\QR CODE\QR CODE\obj\Debug\QR CODE.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2012\Projects\QR CODE\QR CODE\obj\Debug\QR_CODE.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2012\Projects\QR CODE\QR CODE\obj\Debug\QR CODE.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2012\Projects\QR CODE\QR CODE\obj\Debug\QR CODE.exe
+c:\users\ahmed\documents\visual studio 2012\Projects\QR CODE\QR CODE\obj\Debug\QR CODE.pdb
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\QR CODE\QR CODE\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\QR CODE\QR CODE\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\QR CODE\QR CODE\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\QR CODE\QR CODE\bin\Debug\Microsoft.Ink.dll
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\QR CODE\QR CODE\obj\Debug\QR_CODE.QR_form.resources
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\obj\Debug\QR_CODE.QR_form.resources
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\obj\Debug\QR_CODE.Properties.Resources.resources
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\obj\Debug\QR CODE.csproj.GenerateResource.Cache
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\bin\Debug\Scannitor.exe.config
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\bin\Debug\Scannitor.exe.manifest
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\bin\Debug\Scannitor.application
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\bin\Debug\Scannitor.exe
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\bin\Debug\Scannitor.pdb
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\obj\Debug\QR CODE.csprojResolveAssemblyReference.cache
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\obj\Debug\Scannitor.TrustInfo.xml
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\obj\Debug\Scannitor.exe.manifest
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\obj\Debug\Scannitor.application
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\obj\Debug\Scannitor.exe
+C:\Users\yahon_000\Downloads\Compressed\QR Attatchment\QR CODE\QR CODE\obj\Debug\Scannitor.pdb
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\bin\Debug\Scannitor.exe.config
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\obj\Debug\Scannitor.exe
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\obj\Debug\Scannitor.pdb
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\bin\Debug\Scannitor.exe.manifest
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\bin\Debug\Scannitor.application
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\bin\Debug\Scannitor.exe
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\bin\Debug\Scannitor.pdb
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\bin\Debug\Gma.QrCodeNet.Encoding.dll
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\bin\Debug\MessagingToolkit.QRCode.dll
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\bin\Debug\Gma.QrCodeNet.Encoding.xml
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\obj\Debug\QR CODE.csprojResolveAssemblyReference.cache
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\obj\Debug\QR_CODE.QR_form.resources
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\obj\Debug\QR_CODE.Properties.Resources.resources
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\obj\Debug\QR CODE.csproj.GenerateResource.Cache
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\obj\Debug\Scannitor.TrustInfo.xml
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\obj\Debug\Scannitor.exe.manifest
+F:\Word\Work\original\scannitor\QR CODE\QR CODE\obj\Debug\Scannitor.application

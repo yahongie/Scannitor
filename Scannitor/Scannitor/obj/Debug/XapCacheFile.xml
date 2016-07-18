@@ -1,0 +1,16 @@
+﻿<xapCache source="C:\Users\yahon_000\Desktop\scannitor\Scannitor\Scannitor\Bin\Debug\Scannitor_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="31-Mar-14 9:53:32 AM">
+  <file source="C:\Users\yahon_000\Desktop\scannitor\Scannitor\Scannitor\obj\Debug\Scannitor.dll" archivePath="Scannitor.dll" lastWriteTime="31-Mar-14 9:53:30 AM" />
+  <file source="C:\Users\yahon_000\Desktop\scannitor\Scannitor\Scannitor\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="31-Jul-13 5:15:08 AM" />
+  <file source="C:\Users\yahon_000\Desktop\scannitor\Scannitor\Scannitor\Assets\AppBar\basecircle.png" archivePath="Assets\AppBar\basecircle.png" lastWriteTime="01-Jan-13 6:57:00 PM" />
+  <file source="C:\Users\yahon_000\Desktop\scannitor\Scannitor\Scannitor\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="31-Jul-13 5:15:08 AM" />
+  <file source="C:\Users\yahon_000\Desktop\scannitor\Scannitor\Scannitor\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="31-Jul-13 5:15:08 AM" />
+  <file source="C:\Users\yahon_000\Desktop\scannitor\Scannitor\Scannitor\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="31-Jul-13 5:15:08 AM" />
+  <file source="C:\Users\yahon_000\Desktop\scannitor\Scannitor\Scannitor\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="31-Jul-13 5:15:08 AM" />
+  <file source="C:\Users\yahon_000\Desktop\scannitor\Scannitor\Scannitor\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="31-Mar-14 9:32:21 AM" />
+  <file source="C:\Users\yahon_000\Desktop\scannitor\Scannitor\Scannitor\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="31-Jul-13 5:15:08 AM" />
+  <file source="C:\Users\yahon_000\Desktop\scannitor\Scannitor\Scannitor\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="31-Jul-13 5:15:08 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\Microsoft.Expression.Interactions.dll" archivePath="Microsoft.Expression.Interactions.dll" lastWriteTime="25-Sep-12 1:41:02 AM" />
+  <file source="C:\Users\yahon_000\Desktop\scannitor\Silverlight_ZXing_Core.dll" archivePath="Silverlight_ZXing_Core.dll" lastWriteTime="21-Jul-11 5:59:18 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="25-Sep-12 1:41:02 AM" />
+  <file source="C:\Users\yahon_000\Desktop\scannitor\Scannitor\Scannitor\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="31-Mar-14 9:32:21 AM" />
+</xapCache>
